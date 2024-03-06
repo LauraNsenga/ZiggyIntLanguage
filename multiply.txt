@@ -1,0 +1,8 @@
+zag Enter the first digit:
+retrieve num1
+zag Enter the second digit:
+retrieve num2
+zag The product is:
+repeat num1
+zag num2
+end

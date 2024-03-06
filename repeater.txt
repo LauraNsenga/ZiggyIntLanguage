@@ -1,0 +1,7 @@
+zag Enter the character to repeat:
+retrieve character
+zag How many times do you want it to repeat?
+retrieve repeatCount
+repeat repeatCount end
+zig character
+end
