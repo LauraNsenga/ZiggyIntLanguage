@@ -1,0 +1,3 @@
+zig Enter text to reverse:
+retrieve text
+backword
